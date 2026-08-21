@@ -23,7 +23,7 @@
 # To use Trusted Input for segwit, app version must be kept > 2.0.0
 APPVERSION_M = 2
 APPVERSION_N = 0
-APPVERSION_P = 3
+APPVERSION_P = 4
 
 APPDEVELOPPER="Ledger"
 APPCOPYRIGHT="(c) 2024 Ledger"
